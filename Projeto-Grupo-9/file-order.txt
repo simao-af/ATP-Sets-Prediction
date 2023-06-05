@@ -1,0 +1,11 @@
+ORDER:
+
+1st - Grupo9-ChinaDatabase (cleaned)
+2nd - Grupo9-DataUnderstanding (cleaned)
+3rd - Grupo9-DataPreparation (cleaned)
+4th - Grupo9-BigDatabaseCleaning (cleaned)
+5th - Grupo9-Merge (cleaned)
+6th - Grupo9-FiltragemFinal
+
+
+
